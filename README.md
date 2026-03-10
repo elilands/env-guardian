@@ -1,5 +1,10 @@
 # 🛡️ env-guardian
 
+[![npm version](https://img.shields.io/npm/v/@elilands/env-guardian?style=flat-square&color=cyan)](https://www.npmjs.com/package/@elilands/env-guardian)
+[![npm downloads](https://img.shields.io/npm/dt/@elilands/env-guardian?style=flat-square&color=blue)](https://www.npmjs.com/package/@elilands/env-guardian)
+[![CI Status](https://img.shields.io/github/actions/workflow/status/elilands/env-guardian/ci.yml?branch=main&style=flat-square&color=green)](https://github.com/elilands/env-guardian/actions)
+[![License: ISC](https://img.shields.io/badge/License-ISC-purple.svg?style=flat-square)](https://opensource.org/licenses/ISC)
+
 > The elite, lightning-fast CLI to keep your environment variables perfectly synced. 
 
 Ever pushed a broken app to production because you forgot to add a new environment variable to your `.env` file? We've all been there. 
